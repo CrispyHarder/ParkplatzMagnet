@@ -1,0 +1,14 @@
+Eventuell nur Clustering nutzen
+und gelabelte Daten zu testzwecken
+
+Ideen zur Classfication mit Labeln:
+1. jeden Punkt seperat und darauf binary class 
+2. zeitreihen mit binary classification 
+
+Ideen zur Erstellung der gelabelten Trainingsdaten: 
+1. Threshold 
+2. Clustering 
+
+Datenstruktur 
+
+anstatt label light voraussagen 
